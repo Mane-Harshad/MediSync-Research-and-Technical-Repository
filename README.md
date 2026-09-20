@@ -1,31 +1,37 @@
 # MediSync — Research & Technical Repository
 
-Research supporting the design of **MediSync**, a digital healthcare coordination solution focused on improving the accessibility and quality of public healthcare services in rural and underserved communities.
+This repository contains the research resources and supporting documentation used during the design and development of **MediSync**, a digital healthcare coordination solution focused on improving access to healthcare services for people in rural and underserved communities.
 
 ## Research Focus
 
-The research collection examines key challenges associated with rural and underserved healthcare delivery:
+The research collection examines key areas relevant to rural and underserved healthcare delivery:
 
 - Rural and underserved healthcare access
-- Primary healthcare accessibility
-- Specialist access and telemedicine
+- Primary healthcare and specialist access
+- Telemedicine and remote consultation
 - Diagnostic availability and coordination
-- Electronic health records and continuity of care
+- Health records and continuity of care
 - Referral and follow-up coordination
-- Health-worker digital workflows
-- Connectivity and digital-health adoption
+- Health-worker assisted care
+- Connectivity and digital accessibility
 - Healthcare equity
 
 ## Research Collection
 
-This repository contains selected research papers and public-health resources reviewed to understand the healthcare challenges addressed by MediSync and to inform its system design.
+The repository contains selected research papers and public-health resources reviewed to understand healthcare delivery challenges and inform the design of MediSync.
 
 ### Research Index
 
 [View the Research Index](./Research_Papers/Research-Index.md)
 
+The Research Index provides an overview of the selected resources, their relevance, and the major MediSync design areas informed by the research.
+
 ### Research Papers
 
 The complete research collection is available in the [`Research_Papers`](./Research_Papers/) folder.
 
-> These resources provide supporting literature for MediSync's research and design process. They do not constitute experimental validation of the MediSync system.
+## Research Use Disclaimer
+
+The resources in this repository provide supporting literature and contextual evidence for the research and design of MediSync.
+
+They do not constitute clinical, experimental, or performance validation of the MediSync system.
