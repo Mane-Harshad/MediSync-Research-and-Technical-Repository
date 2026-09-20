@@ -148,13 +148,13 @@ MediSync combines assisted access, multilingual interaction, remote consultation
 8. **World Health Organization. (2024).**  
    *Implementation of diagnostics services for primary health care in four Indian states.*  
    **WHO Regional Office for South-East Asia.**  
-   ISBN: 978-92-9021-169-3
+   ISBN: 978-92-9021-169-3.
    [Official WHO publication](https://www.who.int/publications/i/item/9789290211693)
 
 9. **World Health Organization. (2025).**  
    *The Online Referral System in the state health insurance scheme of Karnataka, India: a digital tool to contribute to strategic purchasing.*  
    **World Health Organization.**  
-   ISBN: 978-92-4-010734-2
+   ISBN: 978-92-4-010734-2.
    [Official WHO publication](https://www.who.int/publications/i/item/9789240107342)
 
 10. **Wang, S., von Huben, A., Sivaprakash, P. P., Saurman, E., Norris, S., & Wilson, A. (2025).**  
